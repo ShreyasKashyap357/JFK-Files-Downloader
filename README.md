@@ -1,6 +1,6 @@
 # JFK Files Downloader - Your Portal to Historical Records!
 
-Greetings, history detectives! Welcome to **JFK Files Downloader**, a Python script built to retrieve official JFK assassination records from the National Archives (https://www.archives.gov/research/jfk). Covering releases from 2017 to 2025, this tool fetches a treasure trove of declassified files—CIA memos, FBI reports, audio recordings, and more—tied to November 22, 1963. Whether you’re a coding newbie, a researcher, or just intrigued, this script makes downloading these files a snap!
+Greetings, history detectives! Welcome to **JFK Files Downloader**, a Python script built to retrieve official JFK assassination records from the [National Archives](https://www.archives.gov/research/jfk). Covering releases from 2017 to 2025, this tool fetches a treasure trove of declassified files—CIA memos, FBI reports, audio recordings, and more—tied to November 22, 1963. Whether you’re a coding newbie, a researcher, or just intrigued, this script makes downloading these files a snap!
 
 This project lives on GitHub at [ShreyasKashyap357/JFK-Files-Downloader](https://github.com/ShreyasKashyap357/JFK-Files-Downloader). Contributions, issues, and stars are welcome!
 
@@ -201,13 +201,8 @@ Edit `JFK_Files_Downloader.py`:
 - **“Disk full”**: 2025 needs 12 GB. Check: ```dir``` (Windows) or ```df -h``` (Mac/Linux)
 - **“Slow”**: Test at https://speedtest.net. Adjust --workers or --throttle
 
-## Future Ideas
-- **Size Preview**: Estimate total GB upfront
-- **File Sorting**: Prioritize by size or type
-- **Retry Queue**: Redo failures at the end
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Feel free to use, modify, and share!
 
 ## Start Your Journey!
-Clone this repo, save as `JFK_Files_Downloader.py`, and explore JFK history—terminal or IDE, you’re set! Questions? Open an issue or reach out!
+Clone this repo, save as `JFK_Files_Downloader.py`, and explore JFK history—terminal or IDE, you’re set! Questions? Open an issue or reach out via my email(shreyas.venur@gmail.com)!
